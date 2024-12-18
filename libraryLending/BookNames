@@ -1,0 +1,27 @@
+Category,Title,Author,Prices,Year
+Software,Java Programming,James Gosling,56,1988
+Software,C Programming,Ritchie,35,1967
+Fiction,Fantastic Mr Fox,Roald Dahl,30,1945
+Fiction,Matilda,Roald Dahl,42,1943
+Fiction,James and the Giant Peach,Roald Dahl,40,1943
+Fiction,BFG,Roald Dahl,28,1945
+Fiction,Spartacus,Howard Fast,54,1930
+Fiction,My Family and Other Animals,Gerald Durrell,20,1945
+Fiction,Rebecca,Daphne Du maurier,22,1956
+Fiction,The House on the Strand,Daphne Du maurier,31,1961
+Fiction,Blandings Castle,Wodehouse,20,1961
+Fiction,The Code of the Woosters,Wodehouse,27,1961
+Fiction,Summer Lightning,Wodehouse,20,1961
+Fiction,Right Ho Jeeves,Wodehouse,25,1961
+Fiction,The Paris Apartment,Lucy Foley,53,2022
+Fiction,Dream Town,David Baldacci,45,2022
+Fiction,Fairy Tale,Stephen King,60,2022
+Fiction,It Ends With us,Colleen Hoover,50,2022
+Software,Clean Code,Uncle Bob,100,2001
+Software,Essential Scrum,Kenneth Rubin,76,2009
+Software,Python 3,Rheinwerk Computing,95,2016
+Software,Python Crash Course,Penguin,85,2013
+Software,C++ Primer,Anderson,80,1998
+Mystery,Elephants Can Remember,Agatha Christie,27,1964
+Mystery,Nemesis,Agatha Christie,33,1964
+Mystery,Havana Red,Leonardo Padura,62,2020
